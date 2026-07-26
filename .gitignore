@@ -7,7 +7,7 @@ __pycache__/
 .Python
 *.egg-info/
  
-# Environment / Secrets 
+# Environment / Secrets (vorsichtshalber für spätere Angewohnheiten mitreingenommen)
 .env
  
 # Vector database 
