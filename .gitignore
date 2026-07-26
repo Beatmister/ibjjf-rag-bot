@@ -1,0 +1,28 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+ 
+# Environment / Secrets 
+.env
+ 
+# Vector database 
+chroma_db/
+ 
+# Große/urheberrechtlich geschützte Quelldaten
+data/*.pdf
+ 
+# Streamlit
+.streamlit/secrets.toml
+ 
+# OS-spezifisch
+.DS_Store
+Thumbs.db
+ 
+# IDE
+.vscode/
+.idea/
