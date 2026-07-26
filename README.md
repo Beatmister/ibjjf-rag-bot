@@ -69,5 +69,5 @@ Jiu-Jitsu Federation) in any way.
  
 The chatbot's answers are AI-generated and may contain errors or
 outdated information. For actual competition purposes, always refer
-to the official, current IBJJF rulebook available at ibjjf.com —
-do not rely on this tool as your sole source of truth.
+to the official, current IBJJF rulebook available at [ibjjf.com](https://ibjjf.com/).
+Do not rely on this tool as your sole source of truth.
