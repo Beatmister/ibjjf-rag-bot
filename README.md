@@ -60,3 +60,14 @@ python main.py
 streamlit run app.py
 ```
 Opens automatically in your browser at `http://localhost:8501`.
+
+## Disclaimer
+ 
+This is an unofficial, educational hobby project and is not affiliated
+with, endorsed by, or connected to the IBJJF (International Brazilian
+Jiu-Jitsu Federation) in any way.
+ 
+The chatbot's answers are AI-generated and may contain errors or
+outdated information. For actual competition purposes, always refer
+to the official, current IBJJF rulebook available at ibjjf.com —
+do not rely on this tool as your sole source of truth.
